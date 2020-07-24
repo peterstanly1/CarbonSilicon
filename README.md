@@ -1,2 +1,3 @@
 # Carbon+Silicon
-{compiling...}
+{compiling...}<br>
+Find my latest brain dump here!<br>
